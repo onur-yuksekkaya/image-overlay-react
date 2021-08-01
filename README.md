@@ -14,18 +14,21 @@ npm install --save image-overlay-react
 
 ### Example
 
-```
- <ImgOverlay
-        imgSrc='https://picsum.photos/200/300'
-        bgColor='pink'
-        position='right'
-        width='400px'
-        height='600px'
-        fSize='48px'
-        fColor='gray'
-      >
-        It's a text
-      </ImgOverlay>
+```jsx
+import { ImgOverlay } from 'image-overlay-react'
+import 'image-overlay-react/dist/index.css'
+
+;<ImgOverlay
+  imgSrc='https://picsum.photos/200/300'
+  bgColor='pink'
+  position='right'
+  width='400px'
+  height='600px'
+  fSize='48px'
+  fColor='gray'
+>
+  It's a text
+</ImgOverlay>
 ```
 
 ![Screenshot_1](https://user-images.githubusercontent.com/51006791/127783881-ccabf945-fe33-48da-b900-0fd4d12b0d6d.png)
