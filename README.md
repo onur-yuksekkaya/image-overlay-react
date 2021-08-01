@@ -1,6 +1,6 @@
 # image-overlay-react
 
-> React Image Overlay Face Effect Component
+> React Image Overlay Fade Effect Component
 
 [![NPM](https://img.shields.io/npm/v/image-overlay-react.svg)](https://www.npmjs.com/package/image-overlay-react) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
