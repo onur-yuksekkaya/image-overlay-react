@@ -1,6 +1,6 @@
 {
   "name": "image-overlay-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Made with create-react-library",
   "author": "onur-yuksekkaya",
   "license": "MIT",
@@ -49,5 +49,13 @@
   },
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "react",
+    "image",
+    "overlay",
+    "fade",
+    "image effect",
+    "image slide"
   ]
 }
